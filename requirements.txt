@@ -1,2 +1,8 @@
-fastapi==0.100.0
-hypercorn==0.14.4
+fastapi[all]==0.115.6
+langchain==0.3.14
+langchain-community==0.3.14
+ollama==0.4.5
+pydantic==2.10.4
+langchain-huggingface==0.1.2
+sentence-transformers==3.3.1
+uvicorn==0.34.0
